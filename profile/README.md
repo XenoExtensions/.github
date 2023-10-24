@@ -4,11 +4,7 @@ XenoExtensions is all about crafting browser extensions that aim to enhance your
 
 ## Overview of Extensions
 
-- **YouTube Enhancer (Coming Soon)**: A comprehensive extension for YouTube, including an improved version of [YTShareAntiTrack](https://github.com/Xenorio/YTShareAntiTrack), along with various enhancements. (Name TBD)
-
-## Installation
-
-Visit our [website](#) (coming soon) or explore our GitHub repositories to find and install our extensions.
+Check out the list of extensions at https://extensions.xenorio.xyz/list
 
 ## Contributing
 
